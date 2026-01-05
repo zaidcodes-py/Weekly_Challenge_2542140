@@ -10,3 +10,4 @@ def square(side):
 def rectangle(length, breadth):
     return(length*breadth)
 
+
