@@ -201,3 +201,4 @@ FROM Students s
 JOIN Marks m ON s.student_id = m.student_id
 WHERE m.marks_obtained > 75;
 
+
